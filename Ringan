@@ -1,4 +1,4 @@
-"-- SABDA_PLAYS ANDROID CLOUD - ABSOLUTE PARTICLE NUKE
+-- SABDA_PLAYS ANDROID CLOUD - ABSOLUTE PARTICLE NUKE
 -- Script by sabda_plays
 
 local RunService = game:GetService("RunService")
@@ -108,4 +108,4 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Script By sabda_pkays";
     Text = "jangan lupa follow tiktok: sabda_plays";
     Duration = 20;
-})"
+})
